@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background: rgb(233, 215, 207);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Nunito sans", sans-serif;
+  color: #3b3b3b;
+  font-weight: bolder;
+}
+
+p {
+  font-family: "Fira sans", sans-serif;
+  color: #000000;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 500;
+  font-size: 25px;
+}
+a {
+  color: rgb(150, 6, 6);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+ol {
+  font-family: "Fira sans", sans-serif;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 500;
+}
